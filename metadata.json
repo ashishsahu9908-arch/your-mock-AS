@@ -1,0 +1,8 @@
+{
+  "name": "YOUR MOCK AS",
+  "description": "Convert DPP practice problem PDFs into JEE Main and Advanced online tests with custom timers, partial marking, question palette, and detailed performance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
